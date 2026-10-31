@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "id": "apex-tier",
+      "name": "APEX TIER",
+      "version": "1.0.0",
+      "minecraft": "26.3",
+      "loader": "Fabric",
+      "description": "Modpack oficial do evento APEX TIER. Minecraft Java 26.3 com Fabric.",
+      "zipUrl": "https://github.com/DaviModpacksEMAIS/MODPACKS/releases/download/MODPACK/modpack.zip",
+      "sha256": ""
+    }
+  ]
+}
