@@ -6,8 +6,28 @@
       "version": "1.0.0",
       "minecraft": "26.3",
       "loader": "Fabric",
-      "description": "Modpack oficial do evento APEX TIER. Minecraft Java 26.3 com Fabric.",
-      "zipUrl": "https://github.com/DaviModpacksEMAIS/MODPACKS/releases/download/MODPACK/modpack.zip",
+      "description": "Modpack oficial APEX TIER.",
+      "zipUrl": "https://github.com/DaviModpacksEMAIS/MODPACKS/releases/download/MODPACK/apex-tier.zip",
+      "sha256": ""
+    },
+    {
+      "id": "battle-r",
+      "name": "BATTLE ROYALE",
+      "version": "1.0.0",
+      "minecraft": "1.21.1",
+      "loader": "NeoForge",
+      "description": "Guns and Funs",
+      "zipUrl": "https://github.com/DaviModpacksEMAIS/MODPACKS/releases/download/MODPACK1/BATTLE.ROYALE.zip",
+      "sha256": ""
+    },
+    {
+      "id": "exemplo",
+      "name": "exemplo",
+      "version": "1.0.0",
+      "minecraft": "1.21.1",
+      "loader": "exemplo",
+      "description": "exemplo",
+      "zipUrl": "https://github.com/DaviModpacksEMAIS/MODPACKS/releases/download/MODPACK/exemplo",
       "sha256": ""
     }
   ]
